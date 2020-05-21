@@ -3,24 +3,24 @@
 <template>
     <div>
         <!-- license -->
-        <a href="https://github.com/manerfan/vuesume/blob/master/LICENSE" target="_blank">
-            <img alt="GitHub" src="https://img.shields.io/github/license/manerfan/vuesume">
+        <a href="https://github.com/KinFan/KinFan/blob/master/LICENSE" target="_blank">
+            <img alt="GitHub" src="https://img.shields.io/github/license/KinFan/KinFan">
         </a>
         <!-- 版本号 -->
-        <a href="https://github.com/manerfan/vuesume/" target="_blank">
-            <img alt="GitHub package.json version" src="https://img.shields.io/github/package-json/v/manerfan/vuesume">
+        <a href="https://github.com/KinFan/KinFan/" target="_blank">
+            <img alt="GitHub package.json version" src="https://img.shields.io/github/package-json/v/KinFan/KinFan">
         </a>
         <!-- stars -->
-        <a href="https://github.com/manerfan/vuesume/" target="_blank">
-            <img alt="GitHub stars" src="https://img.shields.io/github/stars/manerfan/vuesume">
+        <a href="https://github.com/KinFan/KinFan/" target="_blank">
+            <img alt="GitHub stars" src="https://img.shields.io/github/stars/KinFan/KinFan">
         </a>
         <!-- fork -->
-        <a href="https://github.com/manerfan/vuesume/fork" target="_blank">
-            <img alt="GitHub forks" src="https://img.shields.io/github/forks/manerfan/vuesume">
+        <a href="https://github.com/KinFan/KinFan/fork" target="_blank">
+            <img alt="GitHub forks" src="https://img.shields.io/github/forks/KinFan/KinFan">
         </a>
         <!-- 下载 -->
-        <a href="https://github.com/manerfan/vuesume/releases" target="_blank">
-            <img alt="GitHub All Releases" src="https://img.shields.io/github/downloads/manerfan/vuesume/total">
+        <a href="https://github.com/KinFan/KinFan/releases" target="_blank">
+            <img alt="GitHub All Releases" src="https://img.shields.io/github/downloads/KinFan/KinFan/total">
         </a>
     </div>
 </template>

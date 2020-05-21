@@ -1,7 +1,7 @@
 <!--
 MIT License
 
-Copyright (c) 2020 Maner·Fan
+Copyright (c) 2020 KinFan
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -23,8 +23,8 @@ SOFTWARE.
 -->
 
 <template>
-    <a :style="{color: color, 'font-size': size + 'em'}" href="https://github.com/manerfan/vuesume/blob/master/LICENSE" target="_blank">
-        ©2020 林舍|Maner·Fan All rights reserved
+    <a :style="{color: color, 'font-size': size + 'em'}" href="https://github.com/KinFan/KinFan/blob/master/LICENSE" target="_blank">
+        ©2020 千帆|KinFan All rights reserved
     </a>
 </template>
 

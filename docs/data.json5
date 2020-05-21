@@ -1,10 +1,10 @@
 {
   // 页面title
-  title: "林舍 - 林中小舍",
+  title: "千帆 - 开山之路",
   // 社交链接
   social: {
-    github: "https://github.com/manerfan",
-    twitter: "https://twitter.com/manerfan_china",
+    github: "https://github.com/KinFan",
+    twitter: "https://twitter.com/KinFan_china",
     linkedin: "https://www.linkedin.com/in/%E6%B0%B8%E6%B0%B8-%E6%A8%8A-705071104/",
   },
   // banner页
@@ -14,12 +14,12 @@
       icon: "home",
       name: "首页",
     },
-    title: "林中小舍",
+    title: "开山之路",
     desc: [
       "北方汉子",
       "宝爸一颗",
       "码农一枚",
-      "花名林舍",
+      "花名千帆",
       "工作五六载",
     ],
   },
@@ -41,12 +41,12 @@
         subtitle: "about me",
       },
       content: {
-        name: "林舍",
+        name: "千帆",
         desc: [
           "林中通幽静",
           "深山藏小舍",
         ],
-        md: "鄙人林舍，生于河北，纯北方汉子，苦读十二载，后求学于西安~\
+        md: "鄙人千帆，生于河北，纯北方汉子，苦读十二载，后求学于西安~\
         \n『**厚德、求真、砺学、笃行**』这是母校给予的八字真言，四年本科生涯、三年研究生涯，良师益友收获颇多~\
         \n求学之际偶遇佳人，毕业之后终成正果，小窝一间、少爷一个，平平淡淡、快快乐乐~\
         \n前有微波天线、后学电磁黑障，本非科班出身，出于热情投身猿类大军~\
@@ -54,10 +54,10 @@
       },
       // key - value 数量及内容完全自定义，链接自动识别
       keys: {
-        "主页": "http://cv.manerfan.com",
-        "博客": "http://blog.manerfan.com",
-        "专栏": "http://zhuanlan.manerfan.com",
-        "公众号": "林中小舍"
+        "主页": "http://cv.KinFan.com",
+        "博客": "http://blog.KinFan.com",
+        "专栏": "http://zhuanlan.KinFan.com",
+        "公众号": "开山之路"
       },
     },
     // 履历
@@ -133,8 +133,8 @@
         title: "blog",
         subtitle: "latest blog",
       },
-      blog: "https://segmentfault.com/blog/manerfan",
-      rss: "https://segmentfault.com/feeds/blog/manerfan",
+      blog: "https://segmentfault.com/blog/KinFan",
+      rss: "https://segmentfault.com/feeds/blog/KinFan",
     },
   ],
 }
